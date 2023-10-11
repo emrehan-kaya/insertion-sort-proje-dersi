@@ -7,6 +7,7 @@ Soru 1)
 dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
 Answer:  
+
     Step 1: [2,3,5,8,7,9,4,15,6]
     Step 2: [2,3,4,8,7,9,5,15,6]
     Step 3: [2,3,4,5,7,9,8,15,6]
@@ -22,6 +23,7 @@ Soru 2)
 a) Yukarıde verilen dizinin Insertion Sort türüne göre aşamalarını yazınız.
 
 Answer a:
+
    Step 1: [22,27,16,2,18,6]   // 22 zaten 27'den küçük olduğu için hiç bir sıralama yapılmadı
    Step 2: [22,16,27,2,18,6]   // 27 ile 16 yer değişti
    Step 3: [16,22,27,2,18,6]   // 22 ile 16 yer değişti
